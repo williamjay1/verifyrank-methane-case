@@ -31,7 +31,7 @@ The frozen primary-weight file has 15,684 rows for four policies at the 25% full
 
 Changes made by this project include quality qualification, chronological fixed-anchor grouping, fixed future windows, history-only features, ranking weights, masking, coefficient aggregation and derived summaries/figures. `SOURCE_MANIFEST.json` records input and artifact hashes and public paths. Original API bodies, imagery, provider notebooks, proprietary facility information, signed URLs, credentials, machine-specific raw manifests and third-party full texts are not included. The original data remain accessible through the cited providers; this repository does not replace their archive.
 
-OpenAI Codex assisted with study design, retrieval, code, analysis, metadata checks, visualization and writing. AI is not a creator and did not generate the original observations or physically validate catalogue labels. Tests assess implementation properties and numerical agreement, not those physical claims.
+Tests assess implementation properties and numerical agreement; they do not physically validate catalogue labels or establish that nondetection means zero emissions.
 
 ## Archiving and citation
 
