@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+.env
+.env.*
+*.log
+temp/
+tmp/
+reproduction_*/
+results/reproduction_*/
+results/recomputed_*/
+results/revision_20261006_ems/planning/validation_report.json
+results/revision_20261006_ems/planning/run_manifest.json
+results/revision_20261006_ems/figures/figure_quality_manifest.json

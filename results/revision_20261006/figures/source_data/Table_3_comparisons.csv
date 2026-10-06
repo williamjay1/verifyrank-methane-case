@@ -1,0 +1,4 @@
+Pair,Conditional difference [95% interval],Joint completion interval,Width,No-scene share of width
+History − random,"0.0961 [0.0594, 0.1321]","[−0.3171, 0.5327]",0.8499,99.94%
+Logistic − history,"−0.0102 [−0.0232, 0.0076]","[−0.1715, 0.1454]",0.3169,99.52%
+Boosting − history,"−0.0474 [−0.0769, −0.0188]","[−0.4240, 0.2784]",0.7025,99.78%

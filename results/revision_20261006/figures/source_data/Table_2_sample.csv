@@ -1,0 +1,14 @@
+Quantity,2023,2024
+Raw unique plume records,718,"1,422"
+Raw scenes,145,272
+Chronological full-campaign anchors,258,496
+Qualified source–scene records,"1,134","2,164"
+Distinct daily candidate anchors,233,399
+Decision dates,5,14
+Source–decision opportunities,774,"3,921"
+Known future references,415,"1,468"
+Accepted detections,185,660
+Qualified catalogue nondetections,230,808
+No qualified future scene,359,"2,451"
+Unresolved qualified reference,0,2
+Pooled known-reference coverage,53.6%,37.4%

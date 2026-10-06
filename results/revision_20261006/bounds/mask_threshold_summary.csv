@@ -1,0 +1,10 @@
+pair,width_target,replicates,hidden_unique_outcomes,targeted_needed_mean,targeted_needed_median,targeted_needed_p025,targeted_needed_p975,uniform_expected_width_crossing_mean,crossing_count_difference_mean,direction_eligible_replicates,direction_reached_replicates,direction_needed_mean_when_reachable
+beta_rate_vs_uniform_random,0.2,200,316,79.235,79.0,71.0,88.0,205.96,126.725,200,200,34.955
+beta_rate_vs_uniform_random,0.1,200,316,143.26,143.0,136.0,151.025,261.255,117.995,200,200,34.955
+beta_rate_vs_uniform_random,0.05,200,316,196.275,196.0,190.0,203.0,288.855,92.58,200,200,34.955
+hist_gradient_boosting_vs_beta_rate,0.2,200,316,37.975,38.0,30.0,48.0,203.46,165.485,200,200,54.985
+hist_gradient_boosting_vs_beta_rate,0.1,200,316,63.095,63.0,53.0,73.025,260.005,196.91,200,200,54.985
+hist_gradient_boosting_vs_beta_rate,0.05,200,316,84.33,84.0,73.975,95.025,288.26,203.93,200,200,54.985
+logistic_vs_beta_rate,0.2,200,316,4.82,5.0,1.0,9.025000000000006,96.47,91.65,0,0,
+logistic_vs_beta_rate,0.1,200,316,18.325,18.0,11.0,26.0,206.42,188.095,0,0,
+logistic_vs_beta_rate,0.05,200,316,34.34,34.0,26.0,43.025000000000006,261.445,227.105,0,0,

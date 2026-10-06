@@ -1,0 +1,12 @@
+scenario,evaluation_mode,model,reference,metric,budget_kind,budget_value,point_estimate,ci_lower,ci_upper,spatial_blocks,valid_bootstrap_replicates,requested_bootstrap_replicates,status
+qaccepted_r250_h3_l24,external_2023_to_2024,beta_rate,uniform_random,conditional_precision_difference,fraction,0.25,0.0960657218491476,0.059416665499953794,0.1321336294634419,193,1000,1000,estimated
+qaccepted_r250_h3_l24,external_2023_to_2024,last_label,beta_rate,conditional_precision_difference,fraction,0.25,-0.012958740962114135,-0.039480316208335225,0.007542616942343462,193,1000,1000,estimated
+qaccepted_r250_h3_l24,external_2023_to_2024,last_label,uniform_random,conditional_precision_difference,fraction,0.25,0.08310698088703349,0.05959926431550927,0.1000493057753427,193,1000,1000,estimated
+qaccepted_r250_h3_l24,external_2023_to_2024,max_emission,beta_rate,conditional_precision_difference,fraction,0.25,-0.07048510293531265,-0.10316631967038811,-0.031934990277302656,193,1000,1000,estimated
+qaccepted_r250_h3_l24,external_2023_to_2024,max_emission,uniform_random,conditional_precision_difference,fraction,0.25,0.02558061891383496,0.0005758235226818253,0.05606307899898331,193,1000,1000,estimated
+qaccepted_r250_h3_l24,external_2023_to_2024,logistic,beta_rate,conditional_precision_difference,fraction,0.25,-0.010203355445575593,-0.023231586738999898,0.007607085013763803,193,1000,1000,estimated
+qaccepted_r250_h3_l24,external_2023_to_2024,logistic,beta_rate,conditional_brier_difference,not_applicable,,-0.0213034521494549,-0.05813548946312459,0.0025219404703584105,193,1000,1000,estimated
+qaccepted_r250_h3_l24,external_2023_to_2024,logistic,uniform_random,conditional_precision_difference,fraction,0.25,0.08586236640357202,0.050379032926696626,0.12175565453919818,193,1000,1000,estimated
+qaccepted_r250_h3_l24,external_2023_to_2024,hist_gradient_boosting,beta_rate,conditional_precision_difference,fraction,0.25,-0.047442996684348406,-0.07686897316945467,-0.018837991620316675,193,1000,1000,estimated
+qaccepted_r250_h3_l24,external_2023_to_2024,hist_gradient_boosting,beta_rate,conditional_brier_difference,not_applicable,,0.03751570020174958,-0.012469000824045952,0.08023353846207973,193,1000,1000,estimated
+qaccepted_r250_h3_l24,external_2023_to_2024,hist_gradient_boosting,uniform_random,conditional_precision_difference,fraction,0.25,0.04862272516479921,0.016657275372190517,0.07736047637073022,193,1000,1000,estimated

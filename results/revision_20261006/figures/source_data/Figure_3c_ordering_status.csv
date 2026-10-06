@@ -1,0 +1,6 @@
+method,reversed,tie,undefined,same_sign
+rerank_original_count,0.4175,0.128,0.0,0.4545
+rerank_original_fraction,0.2525,0.1425,0.0,0.605
+frozen_verified_conditional,0.1955,0.0665,0.0185,0.7195
+uniform_ht,0.2575,0.0915,0.0,0.651
+zero_filled,0.2575,0.0915,0.0,0.651

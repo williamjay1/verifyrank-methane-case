@@ -1,0 +1,4 @@
+model,reference,no_scene,ambiguous
+beta_rate,uniform_random,0.8493924639786689,0.0004799146317003461
+logistic,beta_rate,0.31534826486878764,0.001531578540507112
+hist_gradient_boosting,beta_rate,0.7009528537819535,0.001531578540507112

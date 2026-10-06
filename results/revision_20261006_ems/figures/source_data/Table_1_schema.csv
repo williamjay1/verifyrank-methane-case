@@ -1,0 +1,6 @@
+Input,Fields,Meaning
+Recommendations,Decision · policy · reference ID,Frozen weight; target budget
+Known outcome,Positive / negative,Binary value under the reference protocol
+Actual unresolved,Ambiguous observation,Resolvable flag; shared identity
+Absent follow-up,Decision-specific score slot,Not recoverable by archive checking
+Planning scenario,Cost; recovery probability,"Explicit assumptions, not inferred outcomes"

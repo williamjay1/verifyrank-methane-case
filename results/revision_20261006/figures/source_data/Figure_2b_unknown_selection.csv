@@ -1,0 +1,7 @@
+model,unknown_fraction
+beta_rate,0.569257691254498
+last_label,0.6937669132825445
+max_emission,0.6725946945363648
+uniform_random,0.6550060034326862
+logistic,0.5988864127408056
+hist_gradient_boosting,0.6919793936142178

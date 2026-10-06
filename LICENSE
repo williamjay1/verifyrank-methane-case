@@ -1,0 +1,15 @@
+MIXED-LICENSE RESEARCH ARTIFACT
+
+Original project code in scripts/ and original tests/ are MIT licensed, with
+copyright (c) 2026 junjiezhang. The complete MIT text is in CODE_LICENSE.txt.
+
+Observation-derived material in datasets/, numerical results/ and observational
+figure sources retains the applicable source conditions in DATA_TERMS.md.
+The code license does not relicense these files. In particular, the mixed-origin
+panel is not unrestricted MIT or CC BY data. Independent reuse of the original
+2024 CC BY 4.0 archive remains governed by that archive's own license.
+
+Documentation describes provenance and methods and does not substitute for
+provider terms. Third-party software and original research authors retain their
+attribution. The sole human contributor to this case-analysis artifact is
+junjiezhang; this is not a claim of authorship of the provider observations.

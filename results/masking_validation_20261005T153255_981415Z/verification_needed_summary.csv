@@ -1,0 +1,7 @@
+pair,mechanism,n_evaluations,n_decisions,n_sign_certifiable,n_initially_sign_certified,mean_needed_for_sign_certification,median_needed_for_sign_certification,mean_needed_to_resolve_interval,median_needed_to_resolve_interval,mean_unknown_count
+beta_rate_vs_uniform_random,history_weighted,2800,14,2600,32,8.698076923076924,8.0,52.0,46.0,52.214285714285715
+beta_rate_vs_uniform_random,uniform,2800,14,2600,30,10.059615384615384,10.0,52.0,46.0,52.214285714285715
+hist_gradient_boosting_vs_beta_rate,history_weighted,2800,14,2400,18,9.23,9.0,19.814642857142857,20.0,52.214285714285715
+hist_gradient_boosting_vs_beta_rate,uniform,2800,14,2400,23,9.262083333333333,8.0,19.429642857142856,20.0,52.214285714285715
+logistic_vs_beta_rate,history_weighted,2800,14,2400,92,9.197916666666666,10.0,11.259642857142858,11.0,52.214285714285715
+logistic_vs_beta_rate,uniform,2800,14,2400,79,8.621666666666666,9.0,10.762857142857143,11.0,52.214285714285715

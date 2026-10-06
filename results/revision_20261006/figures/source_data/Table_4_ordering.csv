@@ -1,0 +1,6 @@
+Procedure,Defined eligible,Reversed,Reversal rate,Estimated ties,Eligible unavailable
+"Rerank, original count","2,000",835,41.75%,256,0
+"Rerank, original fraction","2,000",505,25.25%,285,0
+Frozen verified conditional,"1,963",391,19.92%,133,37
+Uniform-design HT,"2,000",515,25.75%,183,0
+Frozen zero filling,"2,000",515,25.75%,183,0

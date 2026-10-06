@@ -1,0 +1,4 @@
+pair,known_source_decision_rows,decision_days,unique_reference_outcomes,reference_outcomes_reused_across_days,maximum_reuse,rows_saved_by_grouping,fixed_macro_truth,truth_exceeds_direction_threshold
+beta_rate_vs_uniform_random,1468,14,632,475,3,836,0.24661454638548053,True
+hist_gradient_boosting_vs_beta_rate,1468,14,632,475,3,836,-0.10357996621470238,True
+logistic_vs_beta_rate,1468,14,632,475,3,836,-0.013958613324094423,False

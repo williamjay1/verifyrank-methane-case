@@ -1,0 +1,5 @@
+Evidence state,Label,Object used in completion
+Accepted detection in first qualified scene,1,Observed source–scene outcome
+Qualified catalogue nondetection,0,Observed source–scene outcome
+"Qualified scene, unresolved plume evidence",Unknown,Shared actual reference outcome
+No qualified scene inside complete window,Unknown,Hypothetical decision-specific score slot
