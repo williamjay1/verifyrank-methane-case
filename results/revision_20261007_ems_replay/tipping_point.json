@@ -1,0 +1,12 @@
+{
+ "pair": "logistic_vs_beta_rate",
+ "tolerance": 0.02,
+ "references": 632,
+ "width_after_full_recovery": 0.3168798434092728,
+ "complete_data_contrast": -0.027836869620638565,
+ "equivalence_with_correct_labels": false,
+ "smallest_wrong_label_count_inside_band": null,
+ "largest_wrong_label_count_inside_band": null,
+ "wrong_label_counts_inside_band": [],
+ "direction_decided_without_wrong_labels": false
+}

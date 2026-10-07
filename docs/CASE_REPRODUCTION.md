@@ -46,3 +46,17 @@ python -B scripts/ems_figures.py --part all
 Figure generation reads the preserved bounds/masking summary CSVs and the planning figure metadata/curve file at their documented relative locations. This redraws saved results; it does not refit models. To draw recomputed results, place them in those locations only in a scratch working copy. Compare numerical tables with the preserved outputs before interpreting the new plots. Timing records and local manifests may differ even when numerical outputs agree.
 
 The public-portability check executed the full 200-mask planning run and output validator in an independent working copy using installed VerifyRank 0.2.0. All nine generated planning CSVs, containing 40,150 rows in total, were byte-identical to the previously verified outputs. The run took 25.95 seconds, and 420 efficient-path comparisons against the public error-bound API passed. Supplied repository CSVs were not overwritten. This establishes computational parity for these portability edits; it does not establish operational recovery rates, independent physical truth or a second environmental validation setting.
+
+## Current replay and figures (7 October 2026)
+
+The new replay consumes four preserved bounds tables, including `coefficient_audit_summary.csv`. Run from the repository root with a fresh output directory:
+
+```sh
+python -B results/revision_20261007_ems_replay/run_replay.py --out results/recomputed_new_replay --replicates 40
+```
+
+This recomputes the archive-width decomposition, controlled reveal summaries, label-error tipping point, discretized-cost selection diagnostics and explicitly synthetic regime sweep with seed 20261007. The saved `run_manifest.json` preserves original input hashes and the original execution versions; its paths have been made repository-relative. Elapsed time and environment versions in new manifests can differ. No field observations are generated.
+
+The [current artwork instructions](../results/revision_20261007_ems_replay/figures/README.md) explain the scratch-directory environment variable, vector/raster exports and layout checks. Figure scripts read saved numerical outputs; they do not refit models or choose new conclusions. The newest paper is in `manuscript/`, while earlier analysis and artwork directories remain available for historical comparison.
+
+The current public replay was executed in a fresh directory with NumPy 2.5.1 and pandas 3.0.5. All nine output CSVs (4,226 rows) were byte-identical to the preserved outputs, and both result JSON objects matched. Redrawing all four figures with Matplotlib 3.11.2 reproduced all four plotted-data tables byte for byte (2,080 rows); all four layout checks passed. The concise check record is `results/revision_20261007_ems_replay/public_portability_validation.json`. This confirms computational parity for the portability changes, not new physical validation.

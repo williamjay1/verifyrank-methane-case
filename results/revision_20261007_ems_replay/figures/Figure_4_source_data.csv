@@ -1,0 +1,11 @@
+resolvable_share,floor_share_mean,reachable_rate,references_to_half_mean,replicates,panel,input_table,recovery,cost_to_half_mean,group,cost_spread
+0.050000000000000003,0.94992826262241747,0,,720,a,regime_sweep_by_share.csv,,,,
+0.25,0.74970233856804736,0,,720,a,regime_sweep_by_share.csv,,,,
+0.5,0.49944171092097106,0.50416666666666665,1185.6902654867256,720,a,regime_sweep_by_share.csv,,,,
+1,0,1,894.16225165562912,720,a,regime_sweep_by_share.csv,,,,
+,,0.37812499999999999,1315.4516129032259,,b,regime_sweep_by_recovery.csv,0.5,2432.329134498556,recovery_probability,
+,,0.38229166666666664,814.89583333333337,,b,regime_sweep_by_recovery.csv,0.80000000000000004,1114.3203877516835,recovery_probability,
+,,0.36770833333333336,893.3881019830028,,b,regime_sweep_by_recovery.csv,1,1322.2522792764676,recovery_probability,
+,,0.37395833333333334,847.94782608695652,,b,regime_sweep_by_cost.csv,,847.94782608695652,relative_cost,equal
+,,0.37604166666666666,953.50813008130081,,b,regime_sweep_by_cost.csv,,2490.9390191094894,relative_cost,uniform_1_5
+,,0.37812499999999999,1014.3817427385892,,b,regime_sweep_by_cost.csv,,946.06540092067894,relative_cost,lognormal

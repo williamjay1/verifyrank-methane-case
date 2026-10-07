@@ -1,0 +1,9 @@
+{
+ "references": 18,
+ "budget": 26.318036,
+ "greedy": 0.028938842366255404,
+ "greedy_count": 11,
+ "exhaustive_optimum": 0.029881594097833305,
+ "gap": 0.000942751731577901,
+ "greedy_is_optimal": false
+}

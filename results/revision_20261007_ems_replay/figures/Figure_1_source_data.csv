@@ -1,0 +1,7 @@
+record_type,state,candidate_count,candidate_share,pair,pair_label,macro_groups,absent_observation_groups,labelled_reference_groups,ambiguous_reference_groups,paired_width,absent_width,ambiguous_width,resolvable_width,irrecoverable_floor,floor_share,complete_data_contrast
+candidate state,Known outcome,1468,0.37439428717163986,,,,,,,,,,,,,
+candidate state,Ambiguous reference,2,0.00051007396072430501,,,,,,,,,,,,,
+candidate state,No qualified observation,2451,0.62509563886763586,,,,,,,,,,,,,
+paired completion width,,,,logistic_vs_beta_rate,logistic vs history,3084,2451,632,1,0.31687984340927278,0.3153482648687656,0.0015315785405071,0.0015315785405071,0.3153482648687656,0.99516668992249857,-0.027836869620638499
+paired completion width,,,,hist_gradient_boosting_vs_beta_rate,boosting vs history,3084,2451,632,1,0.70248443232241653,0.70095285378190941,0.0015315785405071,0.0015315785405071,0.70095285378190941,0.99781976870940237,-0.13416726377524529
+paired completion width,,,,beta_rate_vs_uniform_random,history vs random,3084,2451,632,1,0.84987237861023779,0.84939246397853752,0.00047991463170029999,0.00047991463170029999,0.84939246397853752,0.99943530976676165,0.1506737091873466

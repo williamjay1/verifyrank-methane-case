@@ -1,0 +1,47 @@
+{
+  "stage": "2026-10-07 revision: archive widths, controlled reveal, label-error tipping, exact selection, regime sweep",
+  "group_summary": "results/revision_20261006/bounds/reference_groups_summary.csv",
+  "group_summary_sha256": "93ae6fbaed20e2135dc70f249a0101781e6afef41ee672554333631e2561f6df",
+  "row_audit": "results/revision_20261006/bounds/coefficient_audit_summary.csv",
+  "row_audit_sha256": "26448e2e261b9059fb3fde8ed450b1645c20903f927ceb23212d0870c9ca47fe",
+  "mask_replicates": "results/revision_20261006/bounds/mask_replicate_summary.csv",
+  "mask_replicates_sha256": "59292c0ad4684572d6b13e101452cbc6d563adee687579c5dd0f99e89615eb68",
+  "mask_curves": "results/revision_20261006/bounds/mask_reveal_curve_summary.csv",
+  "mask_curves_sha256": "7094ad59f35a5cbb5521164a4379f24d6b367f2d215b3096bbe99e13829586e1",
+  "primary_budget": [
+    "fraction",
+    0.25
+  ],
+  "pairs": [
+    "logistic_vs_beta_rate",
+    "hist_gradient_boosting_vs_beta_rate",
+    "beta_rate_vs_uniform_random"
+  ],
+  "tolerance": 0.02,
+  "width_targets": [
+    0.2,
+    0.1,
+    0.05
+  ],
+  "seed": 20261007,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "seconds": 3.04,
+  "outputs": [
+    "archive_width_decomposition.csv",
+    "controlled_reveal_curves.csv",
+    "controlled_reveal_summary.csv",
+    "exact_vs_greedy.csv",
+    "knapsack_exhaustive_audit.json",
+    "label_error_tipping.csv",
+    "regime_sweep_by_cost.csv",
+    "regime_sweep_by_recovery.csv",
+    "regime_sweep_by_share.csv",
+    "regime_sweep_raw.csv",
+    "run_replay.py",
+    "tipping_point.json"
+  ],
+  "note": "Case widths follow the preserved completion calculation on the archived primary panel. Synthetic regimes test structural behaviour only.",
+  "portability_note": "Input paths are repository-relative. Scientific settings and numerical outputs are unchanged; replay requires a fresh output directory."
+}

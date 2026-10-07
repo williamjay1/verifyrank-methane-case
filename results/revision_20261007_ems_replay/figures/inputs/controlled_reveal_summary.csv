@@ -1,0 +1,4 @@
+pair,unique_outcomes,hidden_unique_outcomes,initial_width_mean,initial_width_min,initial_width_max,outer_width_mean,true_macro_difference,needed_width_020_mean,needed_width_010_mean,needed_width_005_mean,uniform_crossing_010_mean,uniform_crossing_020_mean,direction_reached,within_band_final,replicas,pair_label
+beta_rate_vs_uniform_random,632,316,0.5737103987993817,0.4957768486858698,0.6685516937928618,0.5807905080600646,0.2466145463854805,79.235,143.26,196.275,261.255,205.96,200,0,200,history vs random
+hist_gradient_boosting_vs_beta_rate,632,316,0.5625621723548582,0.4556802234054116,0.6833786636809991,0.5670421341275029,-0.1035799662147023,37.975,63.095,84.33,260.005,203.46,200,0,200,boosting vs history
+logistic_vs_beta_rate,632,316,0.2922776509312921,0.1918473363443309,0.3826386617953437,0.2970410658998721,-0.0139586133240944,4.82,18.325,34.34,206.42,96.47,0,200,200,logistic vs history

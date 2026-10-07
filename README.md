@@ -1,8 +1,15 @@
 # VerifyRank methane case
 
-Derived evaluation inputs, frozen predictions, controlled masking analyses and figure sources for **Verification-aware evaluation of ranked environmental monitoring: a reusable framework with a methane case study**. The sole human contributor to this artifact is **junjiezhang**. Original environmental observations are attributed to Carbon Mapper and the cited provider archive; they are not claimed as this contributor's original measurements.
+Derived evaluation inputs, frozen predictions, controlled masking analyses and figure sources for **Evaluation and verification planning for ranked environmental monitoring under incomplete evidence: VerifyRank and a methane case study**. The sole human contributor to this artifact is **junjiezhang**. Original environmental observations are attributed to Carbon Mapper and the cited provider archive; they are not claimed as this contributor's original measurements.
 
 The reusable MIT software is maintained separately at [williamjay1/verifyrank](https://github.com/williamjay1/verifyrank). This case repository contains provider-derived data with source-specific terms. See [DATA_TERMS.md](DATA_TERMS.md) and [CODE_LICENSE.txt](CODE_LICENSE.txt). There is no new Zenodo DOI for this artifact.
+
+## Latest update: 7 October 2026
+
+- [Latest manuscript PDF](manuscript/manuscript.pdf), [LaTeX source](manuscript/manuscript.tex) and [supplementary information](manuscript/Supplementary_information.md).
+- [Current figures](results/revision_20261007_ems_replay/figures/): four vector PDFs, editable SVGs, direct 1200/900 dpi PNGs, plotted data and portable drawing scripts.
+- [Current replay](results/revision_20261007_ems_replay/): preserved numerical outputs, exhaustive-selection check, explicitly synthetic regime outputs and portable replay code. The necessary row-level coefficient audit is included with the frozen bounds inputs.
+- [Release v2026.10.07](https://github.com/williamjay1/verifyrank-methane-case/releases/tag/v2026.10.07) packages the repository and current manuscript. The earlier v2026.10.06 release is retained.
 
 ## What the case demonstrates
 

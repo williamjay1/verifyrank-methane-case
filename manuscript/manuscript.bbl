@@ -1,0 +1,128 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{bennett2013}
+N.~D. Bennett, B.~F.~W. Croke, G.~Guariso, J.~H.~A. Guillaume, S.~H. Hamilton,
+  A.~J. Jakeman, S.~Marsili-Libelli, L.~T.~H. Newham, J.~P. Norton, C.~Perrin,
+  S.~A. Pierce, B.~J. Robson, R.~Seppelt, A.~A. Voinov, B.~D. Fath,
+  V.~Andreassian, Characterising performance of environmental models,
+  Environmental Modelling \& Software 40 (2013) 1--20.
+\newblock \href {https://doi.org/10.1016/j.envsoft.2012.09.011}
+  {\path{doi:10.1016/j.envsoft.2012.09.011}}.
+
+\bibitem{hamilton2022}
+S.~H. Hamilton, C.~A. Pollino, D.~S. Stratford, B.~Fu, A.~J. Jakeman,
+  Fit-for-purpose environmental modeling: Targeting the intersection of
+  usability, reliability and feasibility, Environmental Modelling \& Software
+  148 (2022) 105278.
+\newblock \href {https://doi.org/10.1016/j.envsoft.2021.105278}
+  {\path{doi:10.1016/j.envsoft.2021.105278}}.
+
+\bibitem{lakkaraju2017}
+H.~Lakkaraju, J.~Kleinberg, J.~Leskovec, J.~Ludwig, S.~Mullainathan, The
+  selective labels problem: Evaluating algorithmic predictions in the presence
+  of unobservables, in: Proceedings of the 23rd ACM SIGKDD International
+  Conference on Knowledge Discovery and Data Mining, 2017, pp. 275--284.
+\newblock \href {https://doi.org/10.1145/3097983.3098066}
+  {\path{doi:10.1145/3097983.3098066}}.
+
+\bibitem{manski1989}
+C.~F. Manski, Anatomy of the selection problem, The Journal of Human Resources
+  24~(3) (1989) 343--360.
+\newblock \href {https://doi.org/10.2307/145818} {\path{doi:10.2307/145818}}.
+
+\bibitem{uusitalo2015}
+L.~Uusitalo, A.~Lehikoinen, I.~Helle, K.~Myrberg, An overview of methods to
+  evaluate uncertainty of deterministic models in decision support,
+  Environmental Modelling \& Software 63 (2015) 24--31.
+\newblock \href {https://doi.org/10.1016/j.envsoft.2014.09.017}
+  {\path{doi:10.1016/j.envsoft.2014.09.017}}.
+
+\bibitem{klise2020}
+K.~A. Klise, B.~L. Nicholson, C.~D. Laird, A.~P. Ravikumar, A.~R. Brandt,
+  Sensor placement optimization software applied to site-scale
+  methane-emissions monitoring, Journal of Environmental Engineering 146~(7)
+  (2020) 04020054.
+\newblock \href {https://doi.org/10.1061/(ASCE)EE.1943-7870.0001737}
+  {\path{doi:10.1061/(ASCE)EE.1943-7870.0001737}}.
+
+\bibitem{ravindra2024}
+V.~Ravindra, D.~Caldwell, M.~Chandarana~Saephan, et~al.,
+  \href{https://ntrs.nasa.gov/citations/20240005434}{Science target
+  prioritization framework for remote sensing}, Tech. rep., IEEE International
+  Geoscience and Remote Sensing Symposium (IGARSS) (2024).
+\newline\urlprefix\url{https://ntrs.nasa.gov/citations/20240005434}
+
+\bibitem{essawy2020}
+B.~T. Essawy, J.~L. Goodall, D.~Voce, M.~M. Morsy, J.~M. Sadler, Y.~D. Choi,
+  D.~G. Tarboton, T.~Malik, A taxonomy for reproducible and replicable research
+  in environmental modelling, Environmental Modelling \& Software 134 (2020)
+  104753.
+\newblock \href {https://doi.org/10.1016/j.envsoft.2020.104753}
+  {\path{doi:10.1016/j.envsoft.2020.104753}}.
+
+\bibitem{zhu2025}
+Z.~Zhu, M.~Chen, G.~Ren, Y.~He, L.~Sun, F.~Zhang, Y.~Wen, S.~Yue, G.~L{\"u}, A
+  framework for assessing the computational reproducibility of geo-simulation
+  experiments, Environmental Modelling \& Software 186 (2025) 106323.
+\newblock \href {https://doi.org/10.1016/j.envsoft.2025.106323}
+  {\path{doi:10.1016/j.envsoft.2025.106323}}.
+
+\bibitem{cusworth2021}
+D.~H. Cusworth, R.~M. Duren, A.~K. Thorpe, S.~Pandey, J.~D. Maasakkers,
+  I.~Aben, D.~Jervis, D.~J. Varon, D.~J. Jacob, C.~A. Randles, R.~Gautam,
+  M.~Omara, G.~W. Schade, P.~E. Dennison, C.~Frankenberg, D.~Gordon,
+  E.~Lopinto, C.~E. Miller, Intermittency of large methane emitters in the
+  permian basin, Environmental Science \& Technology Letters 8~(7) (2021)
+  567--573.
+\newblock \href {https://doi.org/10.1021/acs.estlett.1c00173}
+  {\path{doi:10.1021/acs.estlett.1c00173}}.
+
+\bibitem{cusworth2026}
+D.~H. Cusworth, D.~M. Bon, D.~J. Varon, et~al., Duration of super-emitting oil
+  and gas methane sources, Nature Communications 17~(1) (2026) 2011.
+\newblock \href {https://doi.org/10.1038/s41467-026-68804-7}
+  {\path{doi:10.1038/s41467-026-68804-7}}.
+
+\bibitem{duren2025}
+R.~Duren, D.~Cusworth, A.~Ayasse, et~al., The carbon mapper emissions
+  monitoring system, Atmospheric Measurement Techniques 18~(22) (2025)
+  6933--6958.
+\newblock \href {https://doi.org/10.5194/amt-18-6933-2025}
+  {\path{doi:10.5194/amt-18-6933-2025}}.
+
+\bibitem{ayasse2024}
+A.~K. Ayasse, D.~H. Cusworth, K.~Howell, et~al., Probability of detection and
+  multi-sensor persistence of methane emissions from coincident airborne and
+  satellite observations, Environmental Science \& Technology 58~(49) (2024)
+  21536--21544.
+\newblock \href {https://doi.org/10.1021/acs.est.4c06702}
+  {\path{doi:10.1021/acs.est.4c06702}}.
+
+\bibitem{roberts2017}
+D.~R. Roberts, V.~Bahn, S.~Ciuti, M.~S. Boyce, J.~Elith, G.~Guillera-Arroita,
+  S.~Hauenstein, J.~J. Lahoz-Monfort, B.~Schr{\"o}der, W.~Thuiller, D.~I.
+  Warton, B.~A. Wintle, F.~Hartig, C.~F. Dormann, Cross-validation strategies
+  for data with temporal, spatial, hierarchical, or phylogenetic structure,
+  Ecography 40~(8) (2017) 913--929.
+\newblock \href {https://doi.org/10.1111/ecog.02881}
+  {\path{doi:10.1111/ecog.02881}}.
+
+\bibitem{lemmen2024}
+C.~Lemmen, P.~S. Sommer, Good modelling software practices, Ecological
+  Modelling 498 (2024) 110890.
+\newblock \href {https://doi.org/10.1016/j.ecolmodel.2024.110890}
+  {\path{doi:10.1016/j.ecolmodel.2024.110890}}.
+
+\bibitem{nyenah2024}
+E.~Nyenah, P.~D{\"o}ll, D.~S. Katz, R.~Reinecke, Software sustainability of
+  global impact models, Geoscientific Model Development 17~(23) (2024)
+  8593--8611.
+\newblock \href {https://doi.org/10.5194/gmd-17-8593-2024}
+  {\path{doi:10.5194/gmd-17-8593-2024}}.
+
+\end{thebibliography}

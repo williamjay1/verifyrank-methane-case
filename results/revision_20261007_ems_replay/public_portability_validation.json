@@ -1,0 +1,160 @@
+{
+  "replay": [
+    {
+      "file": "archive_width_decomposition.csv",
+      "rows": 3,
+      "byte_identical": true
+    },
+    {
+      "file": "controlled_reveal_curves.csv",
+      "rows": 951,
+      "byte_identical": true
+    },
+    {
+      "file": "controlled_reveal_summary.csv",
+      "rows": 3,
+      "byte_identical": true
+    },
+    {
+      "file": "exact_vs_greedy.csv",
+      "rows": 369,
+      "byte_identical": true
+    },
+    {
+      "file": "label_error_tipping.csv",
+      "rows": 10,
+      "byte_identical": true
+    },
+    {
+      "file": "regime_sweep_by_cost.csv",
+      "rows": 3,
+      "byte_identical": true
+    },
+    {
+      "file": "regime_sweep_by_recovery.csv",
+      "rows": 3,
+      "byte_identical": true
+    },
+    {
+      "file": "regime_sweep_by_share.csv",
+      "rows": 4,
+      "byte_identical": true
+    },
+    {
+      "file": "regime_sweep_raw.csv",
+      "rows": 2880,
+      "byte_identical": true
+    }
+  ],
+  "figure_data": [
+    {
+      "file": "Figure_1_source_data.csv",
+      "rows": 6,
+      "byte_identical": true
+    },
+    {
+      "file": "Figure_2_source_data.csv",
+      "rows": 1911,
+      "byte_identical": true
+    },
+    {
+      "file": "Figure_3_source_data.csv",
+      "rows": 153,
+      "byte_identical": true
+    },
+    {
+      "file": "Figure_4_source_data.csv",
+      "rows": 10,
+      "byte_identical": true
+    }
+  ],
+  "figure_layout": [
+    {
+      "figure": 1,
+      "width_mm": 183.0,
+      "height_mm": 80.0,
+      "fixed_canvas": true,
+      "embedding_width_mm": 164.6,
+      "minimum_source_font_pt": 7.8,
+      "minimum_embedded_font_pt": 7.015737704918032,
+      "text_count": 32,
+      "clipped_text": [],
+      "text_text_overlap": [],
+      "text_data_line_overlap": [],
+      "text_bar_overlap": [],
+      "pdf_fonttype": 42,
+      "svg_text_editable": true,
+      "ok": true
+    },
+    {
+      "figure": 2,
+      "width_mm": 183.0,
+      "height_mm": 80.0,
+      "fixed_canvas": true,
+      "embedding_width_mm": 164.6,
+      "minimum_source_font_pt": 7.8,
+      "minimum_embedded_font_pt": 7.015737704918032,
+      "text_count": 40,
+      "clipped_text": [],
+      "text_text_overlap": [],
+      "text_data_line_overlap": [],
+      "text_bar_overlap": [],
+      "pdf_fonttype": 42,
+      "svg_text_editable": true,
+      "ok": true
+    },
+    {
+      "figure": 3,
+      "width_mm": 183.0,
+      "height_mm": 80.0,
+      "fixed_canvas": true,
+      "embedding_width_mm": 164.6,
+      "minimum_source_font_pt": 7.8,
+      "minimum_embedded_font_pt": 7.015737704918032,
+      "text_count": 41,
+      "clipped_text": [],
+      "text_text_overlap": [],
+      "text_data_line_overlap": [],
+      "text_bar_overlap": [],
+      "pdf_fonttype": 42,
+      "svg_text_editable": true,
+      "ok": true
+    },
+    {
+      "figure": 4,
+      "width_mm": 183.0,
+      "height_mm": 80.0,
+      "fixed_canvas": true,
+      "embedding_width_mm": 164.6,
+      "minimum_source_font_pt": 7.8,
+      "minimum_embedded_font_pt": 7.015737704918032,
+      "text_count": 45,
+      "clipped_text": [],
+      "text_text_overlap": [],
+      "text_data_line_overlap": [],
+      "text_bar_overlap": [],
+      "pdf_fonttype": 42,
+      "svg_text_editable": true,
+      "ok": true
+    }
+  ],
+  "replay_json_identical": true,
+  "manuscript": {
+    "pages": 12,
+    "sha256": "c395f2cb673df3c19d8b581edd65bf3f1a177cf1fd3699e2198ccb889612f045",
+    "figure_pages": [
+      4,
+      8,
+      9,
+      10
+    ]
+  },
+  "manifest_files_verified": 134,
+  "tested_environment": {
+    "numpy": "2.5.1",
+    "pandas": "3.0.5",
+    "pymupdf": "1.28.2",
+    "pillow": "12.3.0"
+  },
+  "ok": true
+}
